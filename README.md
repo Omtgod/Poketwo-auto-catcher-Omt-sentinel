@@ -1,4 +1,4 @@
-# OMT-Sentinel V1.0 🛡️
+# OMT-Sentinel V1.7 🛡️
 
 **OMT-Sentinel** is an advanced, highly-secure, and fully autonomous Discord automation and utility tool designed for Pokémon catching, server activity automation, and strategic resource farming. Built natively in Python, it provides unparalleled efficiency, completely hands-free operation, and advanced account management for hardcore players.
 
