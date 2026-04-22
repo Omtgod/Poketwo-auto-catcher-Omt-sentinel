@@ -8,7 +8,7 @@
 [![Developer](https://img.shields.io/badge/Developer-OmtGod-blue?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078d4?style=for-the-badge&logo=windows)]()
 
-*Built for the elite by Aman Choudhary.*
+*Built for the elite by Aman Choudhary. (OmtGod)*
 
 </div>
 
